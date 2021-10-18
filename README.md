@@ -11,6 +11,6 @@ Makes me think of the article ["Donald trump speaks at fourth grade level"](http
   - Gunning-Fog Index
   - SMOG
 - Find classification of the CEFR (a1,a2,b1,b2,c1,c2)
-- Feasability of translator (from beginner to advanced, from advanced to beginner)
   - https://www.englishprofile.org/american-english
-  - 
+  - Download dataset of words
+- Feasability of translator (from beginner to advanced, from advanced to beginner)
