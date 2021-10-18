@@ -7,4 +7,10 @@ Makes me think of the article ["Donald trump speaks at fourth grade level"](http
 ## TODO
 - Read academic paper [The Readability and Simplicity of Donald Trump’s Language](https://journals.sagepub.com/doi/full/10.1177/1478929917706844?journalCode=pswa)
 - Find formula to jugde readability
-- Find classification of European thing (a1,a2,b1,b2,c1,c2)
+  - Flesch–Kincaid formula 
+  - Gunning-Fog Index
+  - SMOG
+- Find classification of the CEFR (a1,a2,b1,b2,c1,c2)
+- Feasability of translator (from beginner to advanced, from advanced to beginner)
+  - https://www.englishprofile.org/american-english
+  - 
